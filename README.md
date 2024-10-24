@@ -10,11 +10,11 @@ Este projeto simula uma interface de rede social onde os usuários podem postar 
 
 ### Tecnologias Utilizadas
 
-HTML: Estrutura da página web.
+* HTML: Estrutura da página web.
 
-CSS: Estilização do layout e dos elementos visuais.
+* CSS: Estilização do layout e dos elementos visuais.
 
-JavaScript: Lógica de interação e dinamismo da aplicação.
+* JavaScript: Lógica de interação e dinamismo da aplicação.
 
 ### Estrutura do Projeto
 
