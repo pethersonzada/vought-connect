@@ -2,7 +2,7 @@
 
 Este projeto simula uma interface de rede social onde os usuários podem postar mensagens e visualizar um feed de postagens. O layout é inspirado em plataformas populares e possui um design responsivo.
 
-### Funcionalidades:
+###Funcionalidades:
 
     Postar mensagens no feed principal.
     Exibir postagens de outros usuários.
@@ -10,9 +10,9 @@ Este projeto simula uma interface de rede social onde os usuários podem postar 
 
 ### Tecnologias Utilizadas
 
-    HTML: Estrutura da página web.
-    CSS: Estilização do layout e dos elementos visuais.
-    JavaScript: Lógica de interação e dinamismo da aplicação.
+HTML: Estrutura da página web.
+CSS: Estilização do layout e dos elementos visuais.
+JavaScript: Lógica de interação e dinamismo da aplicação.
 
 ### Estrutura do Projeto
 
@@ -24,12 +24,12 @@ Este projeto simula uma interface de rede social onde os usuários podem postar 
 
 ### Como Funciona
 
-    Ao abrir a página, o usuário verá um campo de texto e um botão "Postar".
-    O usuário pode inserir um texto e, ao clicar em "Postar", a mensagem será adicionada ao feed de postagens.
-    As postagens já existentes no feed mostram o nome, nome de usuário e a mensagem de outros perfis fictícios.
+Ao abrir a página, o usuário verá um campo de texto e um botão "Postar".
+O usuário pode inserir um texto e, ao clicar em "Postar", a mensagem será adicionada ao feed de postagens.
+As postagens já existentes no feed mostram o nome, nome de usuário e a mensagem de outros perfis fictícios.
 
 ### Melhorias Futuras
 
-    Adicionar funcionalidade de curtidas e comentários nas postagens.
-    Melhorar a responsividade do layout.
-    Integrar com um banco de dados para armazenar postagens de forma permanente.
+* Adicionar funcionalidade de curtidas e comentários nas postagens.
+* Melhorar a responsividade do layout.
+* Integrar com um banco de dados para armazenar postagens de forma permanente.
