@@ -33,9 +33,19 @@ As postagens já existentes no feed mostram o nome, nome de usuário e a mensage
 
 https://github.com/user-attachments/assets/a3939fbb-f4c5-49ac-b301-70cdf3b10b44
 
-
 ### Melhorias Futuras
 
 * Adicionar funcionalidade de curtidas e comentários nas postagens.
 * Melhorar a responsividade do layout.
 * Integrar com um banco de dados para armazenar postagens de forma permanente.
+
+## Aviso de Direitos Autorais
+
+Este código foi desenvolvido por Miguel Petherson e está protegido por direitos autorais. Ele não possui uma licença aberta, o que significa que:  
+
+- **Você não tem permissão para copiar, modificar ou redistribuir este código sem autorização prévia do autor.**
+- Caso queira usar este código para qualquer finalidade, entre em contato por email - pethersonzada@gmail.com  
+
+Por favor, respeite os direitos autorais e o trabalho investido neste projeto.  
+Agradeço pela compreensão! 😊
+
